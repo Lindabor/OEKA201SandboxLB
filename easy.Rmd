@@ -1,5 +1,10 @@
 easy
 
+```{r}
+source("todos_JIH.R")
+
+```
+
 # introduction
 Hello
 
@@ -9,6 +14,9 @@ Hello
 ```{r}
 2+2
 
+```
+```{python}
+print('Hello Python',2+2)
 ```
 
 ## Todos 1
@@ -20,8 +28,9 @@ sum(numbers)
 
 
 ## Todos 2
-sqrt(c(4, 9))
-help()
+```{r}
+# help(sqrt)
+```
 
 
 ## Todos 3
